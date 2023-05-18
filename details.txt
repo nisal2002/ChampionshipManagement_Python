@@ -1,0 +1,10 @@
+dreak,25,alpha,tesla,299
+henry,31,delta,bmw,272
+ali,27,delta,ferrari,346
+liam,28,gamma,ford,308
+john,26,beta,benz,311
+oliver,30,omega,ford,327
+noah,28,gamma,bmw,284
+rob,31,omega,ferrari,310
+tom,25,beta,benz,308
+lucas,29,alpha,ford,390
